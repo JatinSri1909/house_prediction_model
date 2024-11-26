@@ -18,8 +18,8 @@ The dataset is attached in the repository.
 Include the performance metrics results as a snapshot in the GitHub repository.
 
 ### Output1
-![Output1](.\Output1.png)
+![Output1](Output1.png)
 
 ### Output2
-![Output2](.\Output2.png)
+![Output2](Output2.png)
 
